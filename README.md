@@ -50,3 +50,15 @@ git add .
 ```
 
 #### COMMENT Changes
+
+```cmd
+git commit -m "your comment"
+```
+
+#### Pushing Changes
+
+```cmd
+git push origin main
+```
+
+
